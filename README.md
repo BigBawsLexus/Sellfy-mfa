@@ -1,6 +1,6 @@
-# Sellfy Products Table - Frontend Test
+# Sellfy Frontend Test Submission
 
-This is a small React application that fetches product data from a remote JSON endpoint and displays it in a responsive table. It includes a modal for product details and a dropdown menu for sharing or deleting items.
+This is a small React application that fetches product data from a remote JSON endpoint and displays it in a table. It includes a modal for product details and a dropdown menu for sharing or deleting items.
 
 ## Features
 
@@ -9,10 +9,6 @@ This is a small React application that fetches product data from a remote JSON e
 - Product modal with image, description, and share buttons.
 - Dropdown menu to share or delete products.
 - Proper handling of long descriptions and image resizing.
-
-## Demo
-
-(Optional: if you deployed or hosted your project, include a link)
 
 ## Getting Started
 
