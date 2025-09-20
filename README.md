@@ -27,27 +27,32 @@ This is a small React application that fetches product data from a remote JSON e
 ```bash
 git clone https://github.com/BigBawsLexus/Sellfy-mfa
 cd sellfy-products-table
+```
+
 
 2. Install dependencies:
-
+```bash
 npm install
 # or
 yarn install
-
+```
 3. Run the development server:
-
+```bash
 npm start
 # or
 yarn start
-
+```
 4. Open the app in your browser:
-http://localhost:3000
+``` bash
+http://localhost:5173
+```
 
 5. Build for Production
-
+```bash
 npm run build
 # or
 yarn build
+```
 
 This will create a build folder ready to be deployed.
 Folder Structure
